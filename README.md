@@ -35,4 +35,24 @@ The following chart is a box plot for the driver count data. According to this g
 
 ![Fig4.png](https://github.com/WTAN241/PyBer_Analysis/blob/main/analysis/Fig4.png)
 
+Another alternate visualization that is helpful in this analysis is to use pie charts to show percentages. The following three pie charts will showcase the percentage of fares for each type of city. Each pie wedge will represent the percentage of total fares for each city type according to the ride-sharing data percentage we are looking at.
+
+The following chart showcases the % of Total Fares by City. According to this graph:
+1. Urban cities have the highest proportion of total fares % by city type whereas Rural cities have the lowest %.
+2. Urban cities' % total fares have more than 50% of the % of total fares among all city types.  
+
+![Fig5.png](http://localhost:8888/view/PyBer_Analysis/analysis/Fig5.png)
+
+The following chart showcases the % of Total Rides by City. According to this graph:
+1. Urban cities have the highest proportion of total rides % by city type whereas Rural cities have the lowest %.
+2. Urban cities' % total fares have more than 50% of the % of total rides among all city types.  
+
+![Fig6.png](http://localhost:8888/view/PyBer_Analysis/analysis/Fig6.png)
+
+The following chart showcases the % of Total Drivers by City. According to this graph:
+1. Urban cities have the highest proportion of total drivers % by city type whereas Rural cities have the lowest %.
+2. Urban cities' % total drivers have more than 50% of the % of total rides among all city types.  
+
+In sum, urban cities appear to have the highest volume and proportion in terms of total rides, total drivers and total fares in the city.  
+
 # Summary
