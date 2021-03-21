@@ -41,18 +41,25 @@ The following chart showcases the % of Total Fares by City. According to this gr
 1. Urban cities have the highest proportion of total fares % by city type whereas Rural cities have the lowest %.
 2. Urban cities' % total fares have more than 50% of the % of total fares among all city types.  
 
-![Fig5.png](http://localhost:8888/view/PyBer_Analysis/analysis/Fig5.png)
+![Fig5.png](https://github.com/WTAN241/PyBer_Analysis/blob/main/analysis/Fig5.png)
 
 The following chart showcases the % of Total Rides by City. According to this graph:
 1. Urban cities have the highest proportion of total rides % by city type whereas Rural cities have the lowest %.
 2. Urban cities' % total fares have more than 50% of the % of total rides among all city types.  
 
-![Fig6.png](http://localhost:8888/view/PyBer_Analysis/analysis/Fig6.png)
+![Fig6.png](https://github.com/WTAN241/PyBer_Analysis/blob/main/analysis/Fig6.png)
 
 The following chart showcases the % of Total Drivers by City. According to this graph:
 1. Urban cities have the highest proportion of total drivers % by city type whereas Rural cities have the lowest %.
 2. Urban cities' % total drivers have more than 50% of the % of total rides among all city types.  
 
-In sum, urban cities appear to have the highest volume and proportion in terms of total rides, total drivers and total fares in the city.  
+![Fig7.png](https://github.com/WTAN241/PyBer_Analysis/blob/main/analysis/Fig7.png)
+
+The graph below is a more specific version that showcases the total fares by city type in the period between 2019-01-01 to 2019-04-29.
+
+
+In sum, urban cities appear to have the highest volume and proportion in terms of total rides, total drivers and total fares in the city. As a result of this, urban is the city type that is generating the most revenue to PyBer. 
 
 # Summary
+
+The firs business recommendation I propose is 
