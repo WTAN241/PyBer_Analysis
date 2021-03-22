@@ -59,6 +59,11 @@ The graph below is a more specific version that showcases the total fares by cit
 
 ![PyBer_fare_summary.png](https://github.com/WTAN241/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
+According to the graph above:
+1. Urban cities have the highest total fare among the three city types.
+2. Urban cities are about 2 times and 4 times higher than suburban and rural cities in total fare.
+3. Total fare peaked in the period between the end of February and mid March.
+
 In sum, urban cities appear to have the highest volume and proportion in terms of total rides, total drivers and total fares in the city. As a result of this, urban is the city type that is generating the most revenue to PyBer. 
 
 # Summary
