@@ -64,8 +64,12 @@ According to the graph above:
 2. Urban cities are about 2 times and 4 times higher than suburban and rural cities in total fare.
 3. Total fare peaked in the period between the end of February and mid March.
 
-In sum, urban cities appear to have the highest volume and proportion in terms of total rides, total drivers and total fares in the city. As a result of this, urban is the city type that is generating the most revenue to PyBer. 
+In sum, urban cities appear to have the highest volume and proportion in terms of total rides, total drivers and total fares in the city. As a result of this, urban is the city type that is generating the most revenue to PyBer.
 
 # Summary
 
-The firs business recommendation I propose is 
+The first business recommendation I propose is to focus on maintaining the current customer base in urban cities. This is because urban cities have the highest proportion of total fare and total rides with percentages of 62.7% and 68.4% respectively. Altough urban cities have the lowest average fare per ride, the high volume of rides in urban cities is what contributes to the generation of revenue. Therefore, it is important for PyBer to maintain the existing customer base through maintaining a high amount of drivers enough to cover all the rides and even more so as to enable speed of execution. 
+
+
+
+
