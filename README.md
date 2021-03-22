@@ -70,6 +70,7 @@ In sum, urban cities appear to have the highest volume and proportion in terms o
 
 The first business recommendation I propose is to focus on maintaining the current customer base in urban cities. This is because urban cities have the highest proportion of total fare and total rides with percentages of 62.7% and 68.4% respectively. Altough urban cities have the lowest average fare per ride, the high volume of rides in urban cities is what contributes to the generation of revenue. Therefore, it is important for PyBer to maintain the existing customer base through maintaining a high amount of drivers enough to cover all the rides and even more so as to enable speed of execution. 
 
+My second business recommendation is to focus on transferring resources to suburban cities since this could be an area of opportunity for generating revenue. According to the charts above, suburban cities rank second in total fares of 30.5% while having a lower % of total drivers of only 16.5%. Moreover, suburban cities have an average fare higher than urban cities by about $5. Therefore, if PyBer could recruit more drivers to operate in suburban cities, they could be taking advantage of this area of opportunity to generate more revenue.
 
-
+The third business recommendation to the CEO is to increase resources and availability of drivers in the three city types according to when the fares peak during the season. According to the PyBer fare summary graph, the total fares peak during the end of February to mid March. By allocating more resources during this time period, PyBer could be generating more revenue by supplying enough resources to the demands of this time period.
 
