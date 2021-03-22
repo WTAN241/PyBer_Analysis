@@ -57,6 +57,7 @@ The following chart showcases the % of Total Drivers by City. According to this 
 
 The graph below is a more specific version that showcases the total fares by city type in the period between 2019-01-01 to 2019-04-29.
 
+![PyBer_fare_summary.png](https://github.com/WTAN241/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 In sum, urban cities appear to have the highest volume and proportion in terms of total rides, total drivers and total fares in the city. As a result of this, urban is the city type that is generating the most revenue to PyBer. 
 
